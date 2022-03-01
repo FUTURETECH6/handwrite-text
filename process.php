@@ -7,9 +7,9 @@ require_once __DIR__ . '/vendor/autoload.php';
 function getFontName()
 {
     $fontNames = [
-        "HYÑWåtH",
-        "liguofu",
-        "quietsky"
+        // "HYÑWåtH",
+        "liguofu"
+        // "quietsky"
     ];
     return $fontNames[rand(0, count($fontNames) - 1)];
 }
