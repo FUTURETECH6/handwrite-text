@@ -1,0 +1,1 @@
+sudo apt install php php-zip php-mbstring php-xml
