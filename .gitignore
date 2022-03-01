@@ -6,3 +6,6 @@ Thumb.db
 thumb.db
 __MACOSX
 .DS_Store
+*.docx
+*.odt
+*.html
